@@ -1,8 +1,4 @@
 ==README_START==============================================================
-EE364 Homework 9 Optional Competition
-Name: Derek Chibuzor
-USCID: 825-129-0535
-email: chibuzor@usc.edu
 ============================================================================
 Operating system: MacOS (Sequoia 15.1)
 Language: Python
